@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 showTime
 a new branch dev is simple & quick or simple and quick
 test dealwith Bug 
+test many people act2
